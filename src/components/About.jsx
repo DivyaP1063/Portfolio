@@ -16,7 +16,7 @@ const About = () => {
                   <div className=" max-md:w-full">
                     <div className="about-info  mt-7 max-md:mt-0 space-y-4 ">
                       <p><span className="font-semibold">Name: </span> <span className='text-sm'>Divya Prakash</span></p>
-                      <p><span className="font-semibold">Profile: </span> <span className='text-sm'>Front End Developer</span></p>
+                      <p><span className="font-semibold">Profile: </span> <span className='text-sm'>FullStack MERN Developer</span></p>
                       <p><span className="font-semibold">Email: </span> <span className='text-sm'>divyaprakash1063@gmail.com</span></p>
                       <p><span className="font-semibold">Phone: </span> <span className='text-sm'>(+91)7500719430</span></p>
                     </div>
@@ -28,50 +28,50 @@ const About = () => {
                   <div>
                     <span>REACT</span> 
                     <div className="w-[90%] bg-gray-200 h-3 mb-3 ">
-                      <div className="bg-blue-500 h-3 w-[85%] mt-2"></div>
+                      <div className="bg-blue-500 h-3 w-[70%] mt-2"></div>
                     </div>
                   </div>
                   <div>
                     <span>CSS3</span> 
                     <div className="w-[90%] bg-gray-200 h-3 mb-3  ">
-                      <div className="bg-blue-500 h-3 w-[70%] mt-2" ></div>
+                      <div className="bg-blue-500 h-3 w-[60%] mt-2" ></div>
                     </div>
                   </div>
                   <div>
                     <span>JAVASCRIPT</span> 
                     <div className="w-[90%] bg-gray-200 h-3 mb-3  ">
-                      <div className="bg-blue-500 h-3  w-[70%] mt-2"></div>
+                      <div className="bg-blue-500 h-3  w-[60%] mt-2"></div>
                     </div>
                   </div>
                   <div>
                     <span>HTML</span>
                     <div className="w-[90%] bg-gray-200 h-3 mb-3  ">
-                      <div className="bg-blue-500 h-3 w-[60%] mt-2"></div>
+                      <div className="bg-blue-500 h-3 w-[70%] mt-2"></div>
                     </div>
                   </div>
                   <div>
                     <span>Redux</span>
                     <div className="w-[90%] bg-gray-200 h-3 mb-3  ">
-                      <div className="bg-blue-500 h-3  w-[50%] mt-2"></div>
+                      <div className="bg-blue-500 h-3  w-[70%] mt-2"></div>
                     </div>
                   </div>
                   <p className='font-semibold mb-1 uppercase'>BackEnd Tech Stack</p>
                   <div>
                     <span>NodeJS</span> 
                     <div className="w-[90%] bg-gray-200 h-3 mb-3 ">
-                      <div className="bg-blue-500 h-3  w-[25%] mt-2"></div>
+                      <div className="bg-blue-500 h-3  w-[60%] mt-2"></div>
                     </div>
                   </div>
                   <div>
                     <span>ExpressJS</span> 
                     <div className="w-[90%] bg-gray-200 h-3 mb-3 ">
-                      <div className="bg-blue-500 h-3  w-[20%] mt-2" ></div>
+                      <div className="bg-blue-500 h-3  w-[60%] mt-2" ></div>
                     </div>
                   </div>
                   <div>
                     <span>MongoDB</span> 
                     <div className="w-[90%] bg-gray-200 h-3 mb-3  ">
-                      <div className="bg-blue-500 h-3  w-[20%] mt-2"></div>
+                      <div className="bg-blue-500 h-3  w-[60%] mt-2"></div>
                     </div>
                   </div>
 
@@ -83,16 +83,16 @@ const About = () => {
                     About me
                   </h5>
                   <p className="mt-4 text-xl  text-gray-700">
-                  Hi, I'm Divya Prakash, a passionate web front-end developer with expertise in React, Redux, Tailwind CSS, and JavaScript.
+                  Hi, I'm Divya Prakash, a passionate Full-Stack MERN Developer with expertise in React, Redux, Tailwind CSS, Node.js, Express, MongoDB, and JavaScript.
                   </p>
                   <p className="mt-4 text-xl text-gray-700">
-                  I specialize in building intuitive and responsive web applications that deliver exceptional user experiences.With a deep understanding of modern front-end technologies, I enjoy turning complex ideas into sleek, high-performance websites. 
+                  I specialize in building scalable and responsive web applications that deliver exceptional user experiences. With a deep understanding of both front-end and back-end technologies, I enjoy turning complex ideas into sleek, high-performance websites and applications. 
                   </p>
                   <p className="mt-4 text-xl text-gray-700">
-                  My focus is on writing clean, efficient code and creating user interfaces that are both beautiful and functional.
+                  My focus is on writing clean, efficient code and creating robust solutions that are both functional and visually appealing.
                   </p>
                   <p className="mt-4 text-xl text-gray-700">
-                  Whether it's crafting custom components with React, managing state with Redux, or styling with Tailwind CSS
+                  Whether it's developing RESTful APIs with Node.js, managing databases with MongoDB, crafting dynamic front-end components with React, or styling with Tailwind CSS, I'm always ready to tackle new challenges and push the boundaries of web development. Let's create something amazing together!
                   </p>
                   <p className="mt-4 text-xl text-gray-700">
                   I'm always ready to tackle new challenges and push the boundaries of web development.Let's create something amazing together!

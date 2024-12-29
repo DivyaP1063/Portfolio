@@ -3,7 +3,7 @@ import overlayBg from "../img/aaron-gc.png"
 import { useState,useEffect } from 'react';
 
 const Intro = () => {
-  const info =["Front End Developer", "Web Designer","Traveller"];
+  const info =["FullStack Developer","MERN Developer"];
   const [word, setWord] = useState('');
   const [index, setIndex] = useState(0);
   const [subIndex, setSubIndex] = useState(0);
