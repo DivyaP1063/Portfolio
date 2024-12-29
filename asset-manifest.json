@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.2f9c1cd7.css",
-    "main.js": "/Portfolio/static/js/main.74755643.js",
+    "main.css": "/Portfolio/static/css/main.dfa970c0.css",
+    "main.js": "/Portfolio/static/js/main.fe301235.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/aaron-gc.png": "/Portfolio/static/media/aaron-gc.089cc6beacc383d2a71e.png",
+    "static/media/StudyNotion.png": "/Portfolio/static/media/StudyNotion.72ece84c327e2f290ec1.png",
     "static/media/beatrex thumbnail.png": "/Portfolio/static/media/beatrex thumbnail.929080202589f09ec163.png",
     "static/media/profilepic1.png": "/Portfolio/static/media/profilepic1.7b57f25661d71c6f88d2.png",
     "static/media/iphone thumbnail.png": "/Portfolio/static/media/iphone thumbnail.3c3996a5346c9f7bc5de.png",
@@ -11,12 +12,12 @@
     "static/media/Yosemite.jpeg": "/Portfolio/static/media/Yosemite.ec772ce332cfe29313e2.jpeg",
     "static/media/Tetons.jpg": "/Portfolio/static/media/Tetons.1d6cc5d5c35c6104a7da.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.2f9c1cd7.css.map": "/Portfolio/static/css/main.2f9c1cd7.css.map",
-    "main.74755643.js.map": "/Portfolio/static/js/main.74755643.js.map",
+    "main.dfa970c0.css.map": "/Portfolio/static/css/main.dfa970c0.css.map",
+    "main.fe301235.js.map": "/Portfolio/static/js/main.fe301235.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f9c1cd7.css",
-    "static/js/main.74755643.js"
+    "static/css/main.dfa970c0.css",
+    "static/js/main.fe301235.js"
   ]
 }
